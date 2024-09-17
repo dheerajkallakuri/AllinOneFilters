@@ -90,3 +90,11 @@ To run the application, follow these steps:
    ```
 
 This will start the application, and you will be able to see all the filter options available for use.
+
+## References
+
+1. [Link 1](https://github.com/codingforentrepreneurs/OpenCV-Python-Series/blob/master/src/filter.py)
+2. [Link 2](https://www.analyticsvidhya.com/blog/2021/07/an-interesting-opencv-application-creating-filters-like-instagram-and-picsart/)
+
+
+
